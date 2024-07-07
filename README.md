@@ -33,7 +33,7 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz tüm görevleri belirledikten sonra ortaya çıkmıştır. Tüm görevler de sprint içi alt görevlere bölünmüştür. Miro Board'da Asana uygulamasında kullandığımız görev dağılımlarını ve bunların tamamlanma grafiklerini göreceksiniz. Tamamlanan toplam puan grafik üzerinde yazmaktadır.
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 - **Sprint board update**: Sprint board screenshotları:
-![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/e1d569f6-474b-4f63-a983-1d3a098e8b7e)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/9e95dee5-8cf7-4154-83a2-bcf7531f9c86)
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/eabb97ad-5400-4ad2-8d82-33925b1a0ea4)
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/b05dcbf6-5560-4431-80a0-0ccbcd8851e3)
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/7c7ac4e6-e276-4b50-b008-5703ed4525d6)
