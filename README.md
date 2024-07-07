@@ -21,7 +21,7 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 - Doğaseverler <br/>
 - 15-65 yaş arası kullanıcılar <br/>
 ## Product Backlog URL
-[Miro Backlog Board](https://miro.com/app/board/uXjVK0jLl9U=/?share_link_id=712799711609)
+[Miro Backlog Board](https://miro.com/app/board/uXjVK0jLl9U=/?share_link_id=181105848712)
 ---
 
 # Sprint 1
