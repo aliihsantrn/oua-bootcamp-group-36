@@ -25,13 +25,24 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 ---
 
 # Sprint 1
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Personalara aşağıdaki linkten ulaşabilirsiniz.
+[Persona](https://drive.google.com/file/d/1F65-AWuYrYpgF3NR5grvgI-bTjeKXnUI/view?usp=sharing)
+[Persona](https://drive.google.com/file/d/1ZQ6IBMdXYL5wqxnqfLPET8rksboFXwfZ/view?usp=sharing)
 - **Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz tüm görevleri belirledikten sonra ortaya çıkmıştır. Tüm görevler de sprint içi alt görevlere bölünmüştür. Miro Board'da Asana uygulamasında kullandığımız görev dağılımlarını ve bunların tamamlanma grafiklerini göreceksiniz. Tamamlanan toplam puan grafik üzerinde yazmaktadır.
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 - **Sprint board update**: Sprint board screenshotları:
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/e1d569f6-474b-4f63-a983-1d3a098e8b7e)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/eabb97ad-5400-4ad2-8d82-33925b1a0ea4)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/b05dcbf6-5560-4431-80a0-0ccbcd8851e3)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/7c7ac4e6-e276-4b50-b008-5703ed4525d6)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/9cc69d16-4d65-4055-af66-bad7e847d663)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/8611bf1e-3a69-40fa-9396-3a544e6c3735)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/30172c6e-3cae-4e62-b768-1787b94af458)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/da56b957-53c3-43c9-b411-346a3ba0f919)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/69d7701f-18b3-471b-9647-d4f1c15c0855)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/76163e27-027b-423b-bb73-043a1b0a859c)
 - **Ürün Durumu**: Ekran Görüntüleri:
 - **Sprint Review**: Alınan kararlar: 1.sprint'te UI/UX'e ağırlık verilmesine ve personaların oluşturulmasına karar verilmiştir. İçerik, kodlama ve haritalama ekip kararıyla 2. ve 3.sprintlere dağıtılmıştır.
 - **Sprint Retrospective**:
