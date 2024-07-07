@@ -46,6 +46,8 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/69d7701f-18b3-471b-9647-d4f1c15c0855)
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/76163e27-027b-423b-bb73-043a1b0a859c)
 - **Ürün Durumu**: Ekran Görüntüleri:
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/8a63d19f-7bce-4204-82b9-7de9b3281c12)
+![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/cbf37642-5e02-4210-aaa6-879f0bc24254)
 - **Sprint Review**: Alınan kararlar: 1.sprintte UI/UX'e ağırlık verilmesine ve personaların oluşturulmasına karar verilmiştir. İçerik, kodlama ve haritalama ekip kararıyla ikinci ve üçüncü sprintlere dağıtılmıştır.
 - **Sprint Retrospective**:
   - İkinci ve üçüncü sprintlerde görev yoğunluğunun artırılmasına karar verilmiştir.
