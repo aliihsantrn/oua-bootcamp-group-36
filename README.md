@@ -30,8 +30,8 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 [Persona 2](https://drive.google.com/file/d/1ZQ6IBMdXYL5wqxnqfLPET8rksboFXwfZ/view?usp=sharing) <br/>
 [Persona 3](https://drive.google.com/file/d/10DGot6NCuw1eHf95gR_r-K-n_o9Nw8qU/view?usp=sharing)
 - **Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz tüm görevleri belirledikten sonra ortaya çıkmıştır. Tüm görevler de sprint içi alt görevlere bölünmüştür. Miro Board'da Asana uygulamasında kullandığımız görev dağılımlarını ve bunların tamamlanma grafiklerini göreceksiniz. Tamamlanan toplam puan grafik üzerinde yazmaktadır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin en azından 110 ile başlaması gerektiğine karar verildi.
+- **Backlog düzeni ve Story seçimleri**: Backlogumuz tüm görevleri belirledikten sonra ortaya çıkmıştır. Tüm görevler de sprint içi alt görevlere bölünmüştür. Miro Board'da Asana uygulamasında kullandığımız görev dağılımlarını ve bunların tamamlanma grafiklerini göreceksiniz. Tamamlanan toplam puan grafik üzerinde yazmaktadır.
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 [Sprint 1 Daily Scrum](https://1drv.ms/w/s!Ajox2sdzvUk9nTBkhB1fS7afINQ3?e=QkahS1)
 - **Sprint board update**: Sprint board screenshotları:
@@ -46,7 +46,7 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/69d7701f-18b3-471b-9647-d4f1c15c0855)
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/76163e27-027b-423b-bb73-043a1b0a859c)
 - **Ürün Durumu**: Ekran Görüntüleri:
-- **Sprint Review**: Alınan kararlar: 1.sprint'te UI/UX'e ağırlık verilmesine ve personaların oluşturulmasına karar verilmiştir. İçerik, kodlama ve haritalama ekip kararıyla 2. ve 3.sprintlere dağıtılmıştır.
+- **Sprint Review**: Alınan kararlar: 1.sprintte UI/UX'e ağırlık verilmesine ve personaların oluşturulmasına karar verilmiştir. İçerik, kodlama ve haritalama ekip kararıyla ikinci ve üçüncü sprintlere dağıtılmıştır.
 - **Sprint Retrospective**:
   - İkinci ve üçüncü sprintlerde görev yoğunluğunun artırılmasına karar verilmiştir.
   - Developerlardan düzenli geri bildirim ve durum güncellemesi alınmasına karar verilmiştir.
