@@ -25,9 +25,9 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 ---
 
 # Sprint 1
-- **Sprint Notları**: Personalara aşağıdaki linkten ulaşabilirsiniz.
-[Persona](https://drive.google.com/file/d/1F65-AWuYrYpgF3NR5grvgI-bTjeKXnUI/view?usp=sharing)
-[Persona](https://drive.google.com/file/d/1ZQ6IBMdXYL5wqxnqfLPET8rksboFXwfZ/view?usp=sharing)
+- **Sprint Notları**: Personalara aşağıdaki linkten ulaşabilirsiniz. <br/>
+[Persona 1](https://drive.google.com/file/d/1F65-AWuYrYpgF3NR5grvgI-bTjeKXnUI/view?usp=sharing) <br/>
+[Persona 2](https://drive.google.com/file/d/1ZQ6IBMdXYL5wqxnqfLPET8rksboFXwfZ/view?usp=sharing)
 - **Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz tüm görevleri belirledikten sonra ortaya çıkmıştır. Tüm görevler de sprint içi alt görevlere bölünmüştür. Miro Board'da Asana uygulamasında kullandığımız görev dağılımlarını ve bunların tamamlanma grafiklerini göreceksiniz. Tamamlanan toplam puan grafik üzerinde yazmaktadır.
