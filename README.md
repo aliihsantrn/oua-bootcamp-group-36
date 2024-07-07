@@ -32,6 +32,7 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz tüm görevleri belirledikten sonra ortaya çıkmıştır. Tüm görevler de sprint içi alt görevlere bölünmüştür. Miro Board'da Asana uygulamasında kullandığımız görev dağılımlarını ve bunların tamamlanma grafiklerini göreceksiniz. Tamamlanan toplam puan grafik üzerinde yazmaktadır.
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+[Sprint 1 Daily Scrum](https://1drv.ms/w/s!Ajox2sdzvUk9nTBkhB1fS7afINQ3?e=QkahS1)
 - **Sprint board update**: Sprint board screenshotları:
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/9e95dee5-8cf7-4154-83a2-bcf7531f9c86)
 ![](https://github.com/aliihsantrn/oua-bootcamp-group-36/assets/146127488/eabb97ad-5400-4ad2-8d82-33925b1a0ea4)
