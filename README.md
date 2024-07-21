@@ -58,6 +58,48 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 
 ---
 # Sprint 2
+- **Sprint Notları**: Giriş ekranı kodları 2.Sprint' adlı klasörde lib dosyasında mevcuttur.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 puan
+- **Puan tamamlama durumu**: 2.sprint için belirlenen toplam puan 118'dir. Tamamlanması istenen puan 100'dür. Tamamlanmış puan ise 95'tir. Genel anlamda istenen düzeyde ilerleme kaydedilmiştir.
+- **Backlog**: 2.sprint özelindeki backlog 2.Sprint' adlı klasörde 2.Sprint İlerleme Grafiği adıyla mevcuttur.
+- **Daily Scrum**: Daily Scrum toplantıları Zoom ve Google Meet olmak üzere iki farklı araç üzerinden yapılmıştır. Yapılan toplantılardan bir tanesi takım asistanı ile gerçekleştirilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+[Sprint 2 Daily Scrum](https://1drv.ms/f/c/3d49bd73c7da313a/EmqP55h3A5ZHllc-QBdLeXIBUJc3uisF6Yfp8HK2ssHSmQ?e=c6Wblg)
+- **Sprint board update**: Sprint board screenshotları:
+![](https://github.com/user-attachments/assets/a936d0ad-39b9-4e48-b0ca-7b377942a011)
+![](https://github.com/user-attachments/assets/88c96d5f-8f70-454c-86a7-2636ac5362fc)
+![](https://github.com/user-attachments/assets/ad0c0210-a424-4b20-8db7-70700d2fed77)
+![](https://github.com/user-attachments/assets/de26ff3f-f5a2-4540-9d6a-8c44fd57bd01)
+![](https://github.com/user-attachments/assets/ea13f981-aafc-4739-a63a-65192f90586b)
+![](https://github.com/user-attachments/assets/1f21e3d7-ebca-4e8f-b096-e8cc099c5f86)
+![](https://github.com/user-attachments/assets/58af1c0a-c1ed-4c75-9e0a-875817f11d0c)
+![](https://github.com/user-attachments/assets/5ccf7880-682b-49b9-9262-036f345b788f)
+![](https://github.com/user-attachments/assets/8becce49-5395-4a8f-81e1-965ffaa8929e)
+- **Ürün durumu**: Ekran görüntüleri:
+![](https://github.com/user-attachments/assets/fc1f1544-840c-485b-bdd2-f7249be86554)
+![](https://github.com/user-attachments/assets/b4cad950-9480-4c69-b47b-d121ab2aba95)
+![](https://github.com/user-attachments/assets/e4cd8fb5-7586-41e6-a3dd-33ced1bf8055)
+![](https://github.com/user-attachments/assets/147be42b-f7b1-42e7-af85-7290cde8166f)
+![](https://github.com/user-attachments/assets/afbe1667-7934-440b-8e15-82cb40d78f86)
+![](https://github.com/user-attachments/assets/64a42f47-0220-410d-9215-d03f36fe3230)
+![](https://github.com/user-attachments/assets/96468333-654c-47d0-b4a0-c42988a30363)
+![](https://github.com/user-attachments/assets/ddf8c41f-3ddc-4b18-9a09-edc4e2f6ccc0)
+![](https://github.com/user-attachments/assets/aefd6ee3-8daa-4156-9a03-6f2250f8ed1b)
+![](https://github.com/user-attachments/assets/4f74678d-b884-4787-8dc3-0b9e725cdae0)
+![](https://github.com/user-attachments/assets/47fad85e-5f13-474e-9aee-cff151ef118d)
+![](https://github.com/user-attachments/assets/49966e55-9e93-48d7-9bd6-187730f9bfa5)
+![](https://github.com/user-attachments/assets/8b175c10-0eb7-42c3-946b-c8a4432f48ed)
+![](https://github.com/user-attachments/assets/a5613f0e-1700-47c5-9b76-e82cd0821227)
+![](https://github.com/user-attachments/assets/e906a98b-9500-4a5b-b96d-c5113a22e269)
+![](https://github.com/user-attachments/assets/fdbe8783-6a44-4e8a-8397-7b398e932529)
+- **Sprint Review**: Alınan kararlar: Uygulamanın kodlama kısmının 3.sprint'e aktarılmasına karar verilmiştir. Haritaların hem Google Haritalar hem Apple Haritalar ile açılması özelliğinin eklenmesi kararlaştırılmış ve uygulanmıştır. 
+- **Sprint Retrospective**:
+  - İkinci sprintin bitimiyle tasarım çalışmalarının da tamamıyla bitmesi kararı alınmıştır.
+  - Giriş ekranı tasarımının tekrar gözden geçirilmesi ve düzenlemeler yapılması kararı alınmıştır.
+  - Uygulama logosunda değişikliğe gitme kararı alınmıştır.
+  - Kodlamanın görev dağılım kısmının gözden geçirilmesi ve yenilenmesi kararı alınmıştır.
+  - Uygulamaya ödüllendirme sisteminin eklenmesi kararı alınmıştır.
+- **Diğer Notlar**:
+  - N/A
 
 ---
 # Sprint 3
