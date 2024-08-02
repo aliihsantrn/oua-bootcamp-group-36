@@ -146,5 +146,5 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
   - Planlama yapılırken beklenmedik durumlarla karşılaşma ve gecikme olasılıklarına karşı görev sürelerinin esnetilmesinin, görev verilen kişi ile müsaitliği hakkında bire bir konuşulmasının daha verimli olacağı konusunda fikir birliği oluşmuştur.
   - Uygulama fikri bulunurken benzerlerinin olup olmadığını detaylıca araştırmak ve eğer varsa ortaya konacak farklılıklar ile ilgili mantıklı ve gerçek çözümler üretmek konusunda hemfikir olunmuştur.
 - **Diğer Notlar**:
-  - N/A
+  - Uygulamamızın teknik birkaç aksaklıktan ötürü kayıt sayfası çalışmamaktadır. Bu sebeple Giriş Yap ekranına gelerek aa@mail.com e-postasını yazmalı ve şifre olarak da 123456 sayılarını girmelisiniz!!!
 
