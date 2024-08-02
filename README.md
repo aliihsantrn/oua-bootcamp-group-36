@@ -124,4 +124,12 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 ![](https://github.com/user-attachments/assets/fbfff9ee-5387-4a87-8f7d-72182f94c7b3)
 ![](https://github.com/user-attachments/assets/d76abd0e-4cc2-42cf-9295-5ff1c2a76e1b)
 - **Ürün Durumu**: Ekran görüntüleri:
+- **Sprint Review**: Alınan kararlar: Uygulamanın kodlama bölümüne geç başlandığı için ödüllendirme sisteminin çıkarılması ve ödüllendirme sistemi çıktığında profil sayfasının işe yararlığı kaybolacağı için de profil sayfasının kaldırılmasına karar verilmiştir.
+- **Sprint Retrospective**:
+  - Genel olarak başarılı bir süreç geçirildiği konusunda hemfikir olunmuştur.
+  - Kodlama kısmının daha erken başlamasının sonraki projeler için göz önünde bulundurulması gerektiği anlaşılmıştır.
+  - Planlama yapılırken beklenmedik durumlarla karşılaşma ve gecikme olasılıklarına karşı görev sürelerinin esnetilmesinin, görev verilen kişi ile müsaitliği hakkında bire bir konuşulmasının daha verimli olacağı konusunda fikir birliği oluşmuştur.
+  - Uygulama fikri bulunurken benzerlerinin olup olmadığını detaylıca araştırmak ve eğer varsa ortaya konacak farklılıklar ile ilgili mantıklı ve gerçek çözümler üretmek konusunda hemfikir olunmuştur.
+- **Diğer Notlar**:
+  - N/A
 
