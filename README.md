@@ -103,3 +103,25 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 
 ---
 # Sprint 3
+- **Sprint Notları**: Uygulamanın kodlarına 3.Sprint' adlı klasörün içindeki Kodlar isimli klasörden ulaşabilirsiniz.
+- **Sprint içerisinde tamamlanması tahmin edlien puan**: 85 puan
+- **Puan tamamlama durumu**: 3.sprint için belirlenen toplam puan 92'dir. Tamamlanması istenen puan ise 85'tir. Tamamlanan puan 84'tür. Genel anlamda istenen düzeyde ilerleme kaydedilmiştir.
+- **Backlog**: 3.sprint özelindeki backlog durumu 3.Sprint' adlı klasörde 3.Sprint İlerleme Grafiği'nde mevcuttur.
+- **Daily Scrum**: Daily Scrum toplantıları Zoom platformu üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır:
+[Sprint 3 Daily Scrum](https://drive.google.com/drive/folders/1-JNcZvq13WjpLr1aacNJ7IOK0Tc3kG0t?usp=sharing)
+- **Sprint board update**: Sprint board screenshotları:
+![](https://github.com/user-attachments/assets/66d37ef6-9e26-4f8c-9348-152716adb825)
+![](https://github.com/user-attachments/assets/34778568-6bd5-4b59-8d35-38b2e6ac46be)
+![](https://github.com/user-attachments/assets/f72ffe49-068c-4251-8102-f77d33cfaca2)
+![](https://github.com/user-attachments/assets/cd11c52d-82cc-4f24-b3a6-bf9d6a9a213f)
+![](https://github.com/user-attachments/assets/11a94d7e-59ff-45dc-a212-39a03fc8b8f5)
+![](https://github.com/user-attachments/assets/1b35d4d2-4b9a-4ad3-bf3d-1e52edc711e1)
+![](https://github.com/user-attachments/assets/95e6e5a3-6f67-4d39-be1f-830d2b5dfe33)
+![](https://github.com/user-attachments/assets/207754a8-309c-4886-bd0e-ea2659b7bd87)
+![](https://github.com/user-attachments/assets/ff6ae800-2591-4b8b-bd7f-6d5d40e613a9)
+![](https://github.com/user-attachments/assets/6c49e074-a4e5-4a9b-b9e7-17e95cbccabd)
+![](https://github.com/user-attachments/assets/08f416d2-2d87-4ee5-b39e-7c089abe864d)
+![](https://github.com/user-attachments/assets/fbfff9ee-5387-4a87-8f7d-72182f94c7b3)
+![](https://github.com/user-attachments/assets/d76abd0e-4cc2-42cf-9295-5ff1c2a76e1b)
+- **Ürün Durumu**: Ekran görüntüleri:
+
