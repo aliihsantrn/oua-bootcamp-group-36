@@ -103,8 +103,8 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 
 ---
 # Sprint 3
-- **Sprint Notları**: Uygulamanın kodlarına 3.Sprint' adlı klasörün içindeki Kodlar isimli klasörden ulaşabilirsiniz.
-- **Sprint içerisinde tamamlanması tahmin edlien puan**: 85 puan
+- **Sprint Notları**: Uygulamanın kodlarına 3.Sprint' adlı klasörün içinde bulabilirsiniz.
+- **Sprint içerisinde tamamlanması tahmin edilen puan**: 85 puan
 - **Puan tamamlama durumu**: 3.sprint için belirlenen toplam puan 92'dir. Tamamlanması istenen puan ise 85'tir. Tamamlanan puan 84'tür. Genel anlamda istenen düzeyde ilerleme kaydedilmiştir.
 - **Backlog**: 3.sprint özelindeki backlog durumu 3.Sprint' adlı klasörde 3.Sprint İlerleme Grafiği'nde mevcuttur.
 - **Daily Scrum**: Daily Scrum toplantıları Zoom platformu üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır:
@@ -124,6 +124,21 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 ![](https://github.com/user-attachments/assets/fbfff9ee-5387-4a87-8f7d-72182f94c7b3)
 ![](https://github.com/user-attachments/assets/d76abd0e-4cc2-42cf-9295-5ff1c2a76e1b)
 - **Ürün Durumu**: Ekran görüntüleri:
+![](https://github.com/user-attachments/assets/36d33ad0-5765-4c93-a547-baeba51c6609)
+![](https://github.com/user-attachments/assets/29566949-8b0b-4af5-a5f1-cd61fbaf75ad)
+![](https://github.com/user-attachments/assets/a4c5b4e3-8c99-4825-9084-23baf2264619)
+![](https://github.com/user-attachments/assets/11e76457-b7eb-4d59-844c-9047cd4259bd)
+![](https://github.com/user-attachments/assets/d9c796a4-74fe-42c4-ba27-200a5bf1d1b0)
+![](https://github.com/user-attachments/assets/aec44f22-395f-47e9-868b-1140fd0f75e3)
+![](https://github.com/user-attachments/assets/cbc5c2fc-abc7-44ff-bf16-353ac686243f)
+![](https://github.com/user-attachments/assets/33563be1-7471-493a-9c15-1739ab88a73a)
+![](https://github.com/user-attachments/assets/8e2b984b-2edc-4e85-a113-c81a188b291c)
+![](https://github.com/user-attachments/assets/b6303f74-2075-4c81-8797-c847ad243f5b)
+![](https://github.com/user-attachments/assets/09a50446-d2fb-4ebc-b3cd-3c4d33ba92f1)
+![](https://github.com/user-attachments/assets/1e7a50b3-7226-4051-9720-f753d9b395ed)
+![](https://github.com/user-attachments/assets/f4d0f72e-b750-4490-b880-4ccec8a686e3)
+![](https://github.com/user-attachments/assets/09aaced8-dad9-4163-a20a-6d999c8bf5c7)
+![](https://github.com/user-attachments/assets/0221a6a0-106b-45e5-ae27-1ce05ebcaf7c)
 - **Sprint Review**: Alınan kararlar: Uygulamanın kodlama bölümüne geç başlandığı için ödüllendirme sisteminin çıkarılması ve ödüllendirme sistemi çıktığında profil sayfasının işe yararlığı kaybolacağı için de profil sayfasının kaldırılmasına karar verilmiştir.
 - **Sprint Retrospective**:
   - Genel olarak başarılı bir süreç geçirildiği konusunda hemfikir olunmuştur.
