@@ -103,7 +103,7 @@ Uygulamamız, geri dönüştürülebilir atıkların uygun geri dönüşüm nokt
 
 ---
 # Sprint 3
-- **Sprint Notları**: Uygulamanın kodlarına 3.Sprint' adlı klasörün içinde bulabilirsiniz.
+- **Sprint Notları**: Uygulamamızın teknik birkaç aksaklıktan ötürü kayıt sayfası çalışmamaktadır. Bu sebeple Giriş Yap ekranına gelerek aa@mail.com e-postasını yazmalı ve şifre olarak da 123456 sayılarını girmelisiniz!!!
 - **Sprint içerisinde tamamlanması tahmin edilen puan**: 85 puan
 - **Puan tamamlama durumu**: 3.sprint için belirlenen toplam puan 92'dir. Tamamlanması istenen puan ise 85'tir. Tamamlanan puan 84'tür. Genel anlamda istenen düzeyde ilerleme kaydedilmiştir.
 - **Backlog**: 3.sprint özelindeki backlog durumu 3.Sprint' adlı klasörde 3.Sprint İlerleme Grafiği'nde mevcuttur.
